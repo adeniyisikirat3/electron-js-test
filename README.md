@@ -11,12 +11,12 @@ yarn install
 
 ### Compiles and hot-reloads for development
 ```
-electron:serve
+yarn electron:serve
 ```
 
 ### Compiles and minifies for production
 ```
-electron:build
+yarn electron:build
 ```
 
 ### Lints and fixes files
